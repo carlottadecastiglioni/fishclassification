@@ -1,0 +1,6 @@
+pandas
+openpyxl
+mglearn
+mlxtend
+imblearn
+numpy
