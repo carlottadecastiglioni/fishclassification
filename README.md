@@ -41,3 +41,7 @@ Metrics: F1-macro, accuracy, and precision-recall analysis.
 ├── fish_classification_dataset.xlsx \
 ├── README.md \
 └── requirements.txt
+
+
+# Note
+This project was made for the Machine Learning university course
