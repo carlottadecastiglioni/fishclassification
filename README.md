@@ -1,6 +1,3 @@
-# fishclassification
-
-
 # Project Overview
 
 This project focuses on classifying different fish species using machine learning techniques. The dataset consists of various fish species with imbalanced class distributions. The goal is to build an effective classification model that can accurately identify fish species from the given features.
