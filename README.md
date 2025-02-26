@@ -4,7 +4,7 @@ This project focuses on classifying different fish species using machine learnin
 
 # Dataset
 
-Source: The dataset consists of 10,000 samples.
+Source: The dataset consists of 10,000 samples, artificially generated.
 
 Classes: 10 fish species (Tuna, Catfish, Snapper, Trout, Swordfish, Bass, Shark, Goldfish, Salmon, Clownfish).
 
