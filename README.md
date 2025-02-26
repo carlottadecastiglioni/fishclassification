@@ -39,5 +39,5 @@ Metrics: F1-macro, accuracy, and precision-recall analysis.
 
 ├── fish_classification.ipynb \
 ├── fish_classification_dataset.xlsx \
-├── README.md \ 
+├── README.md \
 └── requirements.txt
