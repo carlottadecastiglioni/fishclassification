@@ -15,8 +15,6 @@ Imbalance: Some classes have significantly fewer samples than others.
 
 File format: The dataset is stored in an Excel file (fish_classification_dataset.xlsx).
 
-# Approach
-
 # Preprocessing:
 
 Data cleaning and handling missing values.
@@ -39,7 +37,7 @@ Metrics: F1-macro, accuracy, and precision-recall analysis.
 
 # Repository Structure
 
-├── fish_classification.ipynb
-├── fish_classification_dataset.xlsx
-├── README.md
+├── fish_classification.ipynb \
+├── fish_classification_dataset.xlsx \
+├── README.md \ 
 └── requirements.txt
