@@ -38,7 +38,8 @@ Metrics: F1-macro, accuracy, and precision-recall analysis.
 ├── fish_classification_dataset.xlsx \
 ├── README.md \
 └── requirements.txt \
-└── create_excel_fish  # used to generate the fish_classification_dataset.xlsx
+└── create_excel_fish.py  # used to generate the fish_classification_dataset.xlsx \
+└── dirty_data.ipynb  # used to create some NaN values
 
 
 # Note
